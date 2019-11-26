@@ -21,3 +21,5 @@ Project is created with:
 * Jupyter notebook 
 
 
+## Setup
+To run this project, install it locally using Jupyter notebook
