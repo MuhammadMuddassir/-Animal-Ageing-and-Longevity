@@ -1,4 +1,4 @@
-# -Animal-Ageing-and-Longevity
+# Animal-Ageing-and-Longevity
 
 The idea of this notebook is to understand Animal data from 'AnAge Database of Animal Ageing and Longevity' (url:'http://genomics.senescence.info/species/') and try to Classify 'Order' of the animals based on their Numerical Characteristics. The project explores the overall data and tries to find a baseline model for classification.
 
